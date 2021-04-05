@@ -1,0 +1,12 @@
+{
+    "name": "amansingh-git/advanced-custom-fields-pro",
+    "authors": [
+        {
+            "name": "Amitab Mishra",
+            "email": "amitab.mishra@fourvision.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
