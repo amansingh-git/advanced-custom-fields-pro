@@ -1,11 +1,13 @@
 {
     "name": "amansingh-git/advanced-custom-fields-pro",
+    "type": "wordpress-plugin",
     "authors": [
         {
             "name": "Amitab Mishra",
             "email": "amitab.mishra@fourvision.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "composer/installers": "~1.0"
     }
